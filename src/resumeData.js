@@ -1,10 +1,10 @@
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/",
+    "imagebaseurl":"https://jrimyak.github.io/Portfolio/",
     "name": "Jake Imyak",
     "role": "Full Stack Developer",
     "linkedinId":"Phone: 847-912-1914 - Email: imyakjake@gmail.com",
     "skypeid": "Your skypeid",
-    "roleDescription": "I loves to create, build, and lead for any type of project. My curiosity and positivity allows me to learn and try a multiude of different things related to computer sciece.",
+    "roleDescription": " I love to create, build, and lead for any type of computer science project. My curiosity and positivity allows me to learn and try a multiude of different things related to computer sciece.",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -22,9 +22,9 @@ let resumeData = {
           "className":"fa fa-instagram"
         }
       ],
-    "aboutme":"I am a developer from the Chicagoland area. I am a sophomore studying Computer Science and Engineering student at Ohio State University. I co-founded a started called UpGrade, which is an app for peer-to-peer tutoring, and I worked as a full-stack developer on the team. I co-founded a start-up named Alright Development which provides software solutions for 11 local businesses. ",
+    "aboutme":" I am a developer from the Chicagoland area. I am a sophomore studying Computer Science and Engineering student at Ohio State University. I co-founded a started called UpGrade, which is an app for peer-to-peer tutoring, and I worked as a full-stack developer on the team. I co-founded a start-up named Alright Development which provides software solutions for 11 local businesses. I also love to run, drink coffee, and spend time with friends.",
     "address":"58 E Fabish Drive",
-    "website":"https://rbhatia46.github.io",
+    "website":"https://jrimyak.github.io/Portfolio/",
     "education":[
       {
         "UniversityName":"Ohio State University, College of Engineering",
@@ -68,7 +68,7 @@ let resumeData = {
         "Bullet3":"Inherited client’s legacy codebase in HTML and Swift; debugged and improved the efficiency of the code"
       }
     ],
-    "skillsDescription1":"Languages: Java, Javascript, Python, HTML5, CSS3, MatLab, C, and Swift",
+    "skillsDescription1":"Languages: Java, Javascript, Python, C, HTML5, CSS3, MatLab, and Swift",
     "skillsDescription2":"Tools: mongoDB, Firebase, AWS, Bootstrap, Material Design, React, Redux, Express, REST API and Git",
     "skills":[
       {
