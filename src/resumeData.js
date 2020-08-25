@@ -22,8 +22,8 @@ let resumeData = {
           "className":"fa fa-instagram"
         }
       ],
-    "aboutme":" I am a developer from the Chicagoland area. I am a sophomore studying Computer Science and Engineering student at Ohio State University. I co-founded a started called UpGrade, which is an app for peer-to-peer tutoring, and I worked as a full-stack developer on the team. I co-founded a start-up named Alright Development which provides software solutions for 11 local businesses. I also love to run, drink coffee, and spend time with friends.",
-    "address":"58 E Fabish Drive",
+    "aboutme":" I am a developer from the Chicagoland area. I am a junior studying Computer Science and Engineering student at The Ohio State University. Last summer, I worked in the data space as a Software Engineering Intern at 84.51°. I founded a started called Single Origin, which is an app for second-hand shopping, and I worked as a developer on the team. I co-founded a start-up named Alright Development which provides software solutions for 11 local businesses. I also love to run, drink coffee, and spend time with friends.",
+    "address":"58 E Fabish Drive Buffalo Grove, IL",
     "website":"https://jrimyak.github.io/Portfolio/",
     "education":[
       {
@@ -31,45 +31,47 @@ let resumeData = {
         "specialization":"Major: Computer Science and Engineering",
         "MonthOfPassing":"Expected Graduation: May",
         "YearOfPassing":"2022",
-        "GPA":"GPA: 3.66/4.00",
-        "Coursework":"Relevant Coursework: Data Structures and Algorithms, Discrete Math, Linear Algebra, Statistics for Engineers",
-        "Awards":"Awards: Trustees Scholarship, National Buckeye Scholar, Huskie Hack 1st Prize (2017), Hack Ridge 2nd Place and Best Overall Design (2018), Dean’s List (AU 18, SP 19, AU 19)",
-        "Activities":"Activities: D3 - Design, Develop, Deploy (Accelerator Team Leader), Coffee Roaster Club (President), Engineering House Learning Community, Undergraduate Student Government (Committee Representative), Cognitive Science Club (Member)"
+        "GPA":"GPA: 3.682/4.00",
+        "Coursework":"Relevant Coursework: Data Structures and Algorithms, Linear Algebra, Machine Learning, Statistics for Engineers",
+        "Awards":"Awards: Trustees Scholarship, National Buckeye Scholar, Huskie Hack 1st Prize (2017), Hack Ridge 2nd Place and Best Overall Design (2018), Dean’s List (AU 18, SP 19, AU 19 SP 20)",
+        "Activities":"Activities: Coffee Roaster Club (President), Undergraduate Student Government (Committee Representative), Cognitive Science Club (Member), D3 - Design, Develop, Deploy (Accelerator Team Leader)"
       }
     ],
     "work":[
       {
-        "CompanyName":"UpGrade",
-        "specialization":"Co-Founder/Full-Stack Developer",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2019",
-        "Bullet1":"Co-founded a startup that allows students to be connected academically by creating study groups, finding peer tutors, and allowing students to find fellow students in the same classes",
-        "Bullet2":"Built out a full-stack React Native application implementing Material Design on the frontend client-side",
-        "Bullet3":"Designed a server with NoSQL persistent storage and utilized CDN based image storage to improve efficiency",
-        "Bullet4":"Optimized client application using asynchronous API calls to improve rerender speed",
-        "Bullet5":"Set up a weekly cadence of agile-based development with establishing a positive, optimistic work environment"
+        "CompanyName":"84.51°",
+        "specialization":"Software Engineer Intern",
+        "MonthOfLeaving":"May",
+        "YearOfLeaving":"2020",
+        "Bullet1":"Designed and implemented big data processing pipelines utilizing Python, Apache Spark, and the Google Cloud Platform to create advertising campaign metrics such as sales uplift and live ad attributed sales",
+        "Bullet2":"Researched and provided a recommendation for the switch to The Trade Desk as an ad performance data source",
+        "Bullet3":"Built a Flask microservice using the Pivotal Cloud Foundry API and GitHub’s GraphQL API to identify waste",
+        "Bullet4":"Worked in a cross functional team with Project Managers, Data Engineers, Software Engineers, and Data Scientists to support the growth of the Prism platform and Kroger Precision Marketing",
 
       },
       {
-        "CompanyName":"Quad (Flip III LLC)",
-        "specialization":"Software Engineer",
-        "MonthOfLeaving":"May",
-        "YearOfLeaving":"2019",
-        "Bullet1":"Design and developed an end to end web-based React application that provides a unique experience for end-users visiting the site while also creating an admin dashboard to keep to data concurrent",
-        "Bullet2":"Integrated functionality for the admin dashboard allowing for CSV files to be parsed and saved to a database"
+        "CompanyName":"Single Origin Development",
+        "specialization":"Founder/Developer",
+        "MonthOfLeaving":"June",
+        "YearOfLeaving":"2020",
+        "Bullet1":"Founded a startup for buying and selling second-hand clothes where the social aspect of shopping is emphasized",
+        "Bullet2":"Built out a full-stack React web application implementing Material Design on the frontend client-side",
+        "Bullet3":"Built out recommendation and image recognition algorithms using Python, Keras, and Tensorflow",
+        "Bullet4":"Set up a weekly cadence of agile-based development with establishing a positive, optimistic work environment"
+
       },
       {
         "CompanyName":"Alright Development",
         "specialization":"Co-Founder/Software Engineer",
         "MonthOfLeaving":"June",
         "YearOfLeaving":"2015",
-        "Bullet1":"Consulted with 11 clients to produce client requirement spec sheets and integrated features to perfection",
+        "Bullet1":"Consulted with 12 clients to produce client requirement spec sheets and integrated features to perfection",
         "Bullet2":"Led communication with clients to ensure the solutions were implementing the feature set agreed upon",
         "Bullet3":"Inherited client’s legacy codebase in HTML and Swift; debugged and improved the efficiency of the code"
       }
     ],
-    "skillsDescription1":"Languages: Java, Javascript, Python, C, HTML5, CSS3, MatLab, and Swift",
-    "skillsDescription2":"Tools: mongoDB, Firebase, AWS, Bootstrap, Material Design, React, Redux, Express, REST API and Git",
+    "skillsDescription1":"Languages: Java, Python, C, Javascript, HTML5, CSS3, Ruby, MatLab, and Swift",
+    "skillsDescription2":"Tools: mongoDB, Firebase, AWS, Bootstrap, Material Design, React, Redux, Flask, Spark, Rails, and Git",
     "skills":[
       {
         "skillname":"HTML5"
