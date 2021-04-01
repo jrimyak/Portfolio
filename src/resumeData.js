@@ -22,18 +22,18 @@ let resumeData = {
           "className":"fa fa-instagram"
         }
       ],
-    "aboutme":" I am a developer from the Chicagoland area. I am a junior studying Computer Science and Engineering student at The Ohio State University. Last summer, I worked in the data space as a Software Engineering Intern at 84.51°. I founded a started called Single Origin, which is an app for second-hand shopping, and I worked as a developer on the team. I co-founded a start-up named Alright Development which provides software solutions for 11 local businesses. I also love to run, drink coffee, and spend time with friends.",
+    "aboutme":" Hi, my name is Jake Imyak and I am a computer scientist from the Chicagoland area. I am currently majoring in Computer Science and Engineering with a minor in Mathematics from the Ohio State University. I interned at 84.51° working as a data engineer attempting to allow CPGs to gain insights on their various marketing campaigns. Also, I love artisan coffee, running, and spending time with friends!",
     "address":"58 E Fabish Drive Buffalo Grove, IL",
     "website":"https://jrimyak.github.io/Portfolio/",
     "education":[
       {
         "UniversityName":"Ohio State University, College of Engineering",
-        "specialization":"Major: Computer Science and Engineering",
+        "specialization":"Major: Computer Science and Engineering & Minor: Mathematics",
         "MonthOfPassing":"Expected Graduation: May",
         "YearOfPassing":"2022",
-        "GPA":"GPA: 3.682/4.00",
+        "GPA":"GPA: 3.755/4.00",
         "Coursework":"Relevant Coursework: Data Structures and Algorithms, Linear Algebra, Machine Learning, Statistics for Engineers",
-        "Awards":"Awards: Trustees Scholarship, National Buckeye Scholar, Huskie Hack 1st Prize (2017), Hack Ridge 2nd Place and Best Overall Design (2018), Dean’s List (AU 18, SP 19, AU 19 SP 20)",
+        "Awards":"Awards: Trustees Scholarship, National Buckeye Scholar, Huskie Hack 1st Prize (2017), Hack Ridge 2nd Place and Best Overall Design (2018), Dean’s List (AU 18, SP 19, AU 19 SP 20 AU 21)",
         "Activities":"Activities: Coffee Roaster Club (President), Undergraduate Student Government (Committee Representative), Cognitive Science Club (Member), D3 - Design, Develop, Deploy (Accelerator Team Leader)"
       }
     ],
@@ -91,10 +91,10 @@ let resumeData = {
         "link":"https://devpost.com/software/mentaldrive"
       },
       {
-        "name":"Legos By Evan",
-        "description":"Legos By Evan was a freelance project that was for a small business in the area that sold Jewish lego products. The website was made using full HTML, CSS, and Javascript. It has helped grow the company and allow for people to connect with the owner.",
-        "imgurl":"images/portfolio/legos.jpg",
-        "link":"http://www.legosbyevan.com/"
+        "name":"Cardgenix",
+        "description":"Cardgenix was a project developed at Hack Ohio in 2020 with Kriti Chawla, Josh Ison, and Jacob Rosenber. I worked on the React Native front end and python project to create cartoons.",
+        "imgurl":"images/portfolio/darkgreen01.png",
+        "link":"https://github.com/jrimyak/HackOhioFrontend/"
       },
       {
         "name":"ARBody",
