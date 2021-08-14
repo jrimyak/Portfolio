@@ -31,44 +31,44 @@ let resumeData = {
         "specialization":"Major: Computer Science and Engineering & Minor: Mathematics",
         "MonthOfPassing":"Expected Graduation: May",
         "YearOfPassing":"2022",
-        "GPA":"GPA: 3.755/4.00",
-        "Coursework":"Relevant Coursework: Data Structures and Algorithms, Linear Algebra, Machine Learning, Statistics for Engineers",
-        "Awards":"Awards: Trustees Scholarship, National Buckeye Scholar, Huskie Hack 1st Prize (2017), Hack Ridge 2nd Place and Best Overall Design (2018), Dean’s List (AU 18, SP 19, AU 19 SP 20 AU 21)",
-        "Activities":"Activities: Coffee Roaster Club (President), Undergraduate Student Government (Committee Representative), Cognitive Science Club (Member), D3 - Design, Develop, Deploy (Accelerator Team Leader)"
+        "GPA":"GPA: 3.778/4.00",
+        "Coursework":"Coursework: Data Structures & Algorithms, Natural Language Processing, Survey of AI, Quantitative Neuroscience",
+        "Awards":"Awards: Trustees Scholarship, National Buckeye Scholar, Huskie Hack 1st Prize (2017), Hack Ridge 2nd Place and Best Overall Design (2018), Dean’s List (AU 18, SP 19, AU 19, SP 20, AU 20, SP 21)",
+        "Activities":"Activities: Coffee Roasting Club (President), Survey of AI Teaching Assistant, Undergraduate Student Government (Committee Representative), D3 - Design, Develop, Deploy (Accelerator Team Leader)"
       }
     ],
     "work":[
       {
         "CompanyName":"84.51°",
         "specialization":"Software Engineer Intern",
-        "MonthOfLeaving":"May",
-        "YearOfLeaving":"2020",
-        "Bullet1":"Designed and implemented big data processing pipelines utilizing Python, Apache Spark, and the Google Cloud Platform to create advertising campaign metrics such as sales uplift and live ad attributed sales",
-        "Bullet2":"Researched and provided a recommendation for the switch to The Trade Desk as an ad performance data source",
-        "Bullet3":"Built a Flask microservice using the Pivotal Cloud Foundry API and GitHub’s GraphQL API to identify waste",
-        "Bullet4":"Worked in a cross functional team with Project Managers, Data Engineers, Software Engineers, and Data Scientists to support the growth of the Prism platform and Kroger Precision Marketing",
+        "MonthOfLeaving":"June 2021 - ",
+        "YearOfLeaving":"August 2021",
+        "Bullet1":"● Built out an Azure SAS Token Service in Java Spring to enhance security for access to blob storage in the cloud and implemented an auditing functionality to store data in mongoDB to track metrics regarding the services",
+        "Bullet2":"● Enhanced existing data ingestion services by improving NiFi flows and optimizing existing Python plugins",
+        "Bullet3":"● Designed and developed a full stack service health dashboard utilizing Go & Prometheus to process metrics and React & Grafana to create a panel plugin maintaining UI/UX standards and added functionality to display data",
+        "Bullet4":"",
+        
+      },
+      {
+        "CompanyName":"84.51°",
+        "specialization":"Software Engineer Intern",
+        "MonthOfLeaving":"May 2020 - ",
+        "YearOfLeaving":"July 2020",
+        "Bullet1":"● Designed and implemented big data processing pipelines utilizing Python, Apache Spark, and the Google Cloud Platform to create advertising campaign metrics such as sales uplift and live ad attributed sales",
+        "Bullet2":"● Researched and provided a recommendation for the switch to The Trade Desk as an ad performance data source",
+        "Bullet3":"● Built a Flask microservice using the Pivotal Cloud Foundry API and GitHub’s GraphQL API to identify waste",
+        "Bullet4":"● Worked in a cross functional team with Project Managers, Data Engineers, Software Engineers, and Data Scientists to support the growth of the Prism platform and Kroger Precision Marketing",
 
       },
       {
-        "CompanyName":"Single Origin Development",
-        "specialization":"Founder/Developer",
-        "MonthOfLeaving":"June",
-        "YearOfLeaving":"2020",
-        "Bullet1":"Founded a startup for buying and selling second-hand clothes where the social aspect of shopping is emphasized",
-        "Bullet2":"Built out a full-stack React web application implementing Material Design on the frontend client-side",
-        "Bullet3":"Built out recommendation and image recognition algorithms using Python, Keras, and Tensorflow",
-        "Bullet4":"Set up a weekly cadence of agile-based development with establishing a positive, optimistic work environment"
-
-      },
-      {
-        "CompanyName":"Alright Development",
-        "specialization":"Co-Founder/Software Engineer",
-        "MonthOfLeaving":"June",
-        "YearOfLeaving":"2015",
-        "Bullet1":"Consulted with 12 clients to produce client requirement spec sheets and integrated features to perfection",
-        "Bullet2":"Led communication with clients to ensure the solutions were implementing the feature set agreed upon",
-        "Bullet3":"Inherited client’s legacy codebase in HTML and Swift; debugged and improved the efficiency of the code",
-        "Bullet4":""
+        "CompanyName":"BuzzU",
+        "specialization":"Founder/Lead Data Engineer",
+        "MonthOfLeaving":"March 2021 - ",
+        "YearOfLeaving":"Present",
+        "Bullet1":"● Founded a startup leveraging machine learning to predict the marketability of college athletes for endorsements",
+        "Bullet2":"● Set up data pipelines to process data through a SVM using Pandas and sklearn to create scores for each athlete",
+        "Bullet3":"● Created a React dashboard for data visualization and a Flask middleware service to get the data from mongoDB",
+        "Bullet4":"● Set up a weekly cadence of agile-based development with establishing a positive, optimistic work environment"
       }
     ],
     "skillsDescription1":"Languages: Java, Python, C, Javascript, HTML5, CSS3, Ruby, MatLab, and Swift",
