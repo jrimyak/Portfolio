@@ -86,7 +86,7 @@ export const Header: FunctionComponent<Data> = (props) => {
                     resumeData.socialLinks && resumeData.socialLinks.map(item =>{
                       return(
                               <li key={item.name}>
-                                <a href={item.url} target="_blank"><i className={item.className} style={{color: 'black'}} aria-hidden={true}></i></a>
+                                <a href={item.url} target="_blank"><i className={item.className} aria-hidden={true}></i></a>
                               </li>
                             )
                           }
