@@ -67,7 +67,8 @@ let resumeData = {
         "YearOfLeaving":"2015",
         "Bullet1":"Consulted with 12 clients to produce client requirement spec sheets and integrated features to perfection",
         "Bullet2":"Led communication with clients to ensure the solutions were implementing the feature set agreed upon",
-        "Bullet3":"Inherited client’s legacy codebase in HTML and Swift; debugged and improved the efficiency of the code"
+        "Bullet3":"Inherited client’s legacy codebase in HTML and Swift; debugged and improved the efficiency of the code",
+        "Bullet4":""
       }
     ],
     "skillsDescription1":"Languages: Java, Python, C, Javascript, HTML5, CSS3, Ruby, MatLab, and Swift",
