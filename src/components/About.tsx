@@ -62,7 +62,7 @@ export const About: FunctionComponent<Data> = (props) => {
     const resumeData = props.resumeData;
     return (
       <section id="about">
-         <div className="row">
+         <div className="row" style={{backgroundColor: 'white'}}>
 
             <div className="three columns">
 

@@ -61,32 +61,32 @@ export const Header: FunctionComponent<Data> = (props) => {
   return(
       <React.Fragment>
       
-      <header id="home">
+      <header id="home" style={{backgroundColor: 'white'}}>
          <nav id="nav-wrap">
             <a className="mobile-btn" href="#nav-wrap" title="Show navigation">Show navigation</a>
           <a className="mobile-btn" href="#" title="Hide navigation">Hide navigation</a>
             <ul id="nav" className="nav">
                <li className="current"><a className="smoothscroll" href="#home">Home</a></li>
-               <li><a className="smoothscroll" href="#about">About</a></li>
-             <li><a className="smoothscroll" href="#resume">Resume</a></li>
-               <li><a className="smoothscroll" href="#portfolio">Projects</a></li>
+               <li><a className="smoothscroll" style={{color: 'black'}} href="#about">About</a></li>
+             <li><a className="smoothscroll" style={{color: 'black'}} href="#resume">Resume</a></li>
+               <li><a className="smoothscroll" style={{color: 'black'}} href="#portfolio">Projects</a></li>
           
-               <li><a className="smoothscroll" href="#contact">Contact</a></li>
+               <li><a className="smoothscroll" style={{color: 'black'}} href="#contact">Contact</a></li>
             </ul>
          </nav>
 
          <div className="row banner">
             <div className="banner-text">
-               <h1 className="responsive-headline">I am {resumeData.name}.</h1>
-               <h3 style={{color:'#fff', fontFamily:'sans-serif '}}>I am a {resumeData.role}.{resumeData.roleDescription}
+               <h1 className="responsive-headline" style={{color: '#000'}}>I am {resumeData.name}.</h1>
+               <h3 style={{color:'#000', fontFamily:'sans-serif '}}>I am a {resumeData.role}.{resumeData.roleDescription}
                </h3>
-               <hr/>
+               <hr style={{color: 'black'}}/>
                <ul className="social">
                   {
                     resumeData.socialLinks && resumeData.socialLinks.map(item =>{
                       return(
                               <li key={item.name}>
-                                <a href={item.url} target="_blank"><i className={item.className}></i></a>
+                                <a href={item.url} target="_blank"><i className={item.className} style={{color: 'black'}} aria-hidden={true}></i></a>
                               </li>
                             )
                           }
