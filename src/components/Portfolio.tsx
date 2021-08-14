@@ -57,7 +57,7 @@ skills: {
 
 } 
 
-export const Porfolio: FunctionComponent<Data> = (props) => {
+export const Portfolio: FunctionComponent<Data> = (props) => {
   const resumeData = props.resumeData;  
   return (
       <section id="portfolio">
