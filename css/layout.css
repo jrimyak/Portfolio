@@ -52,7 +52,7 @@ header .banner {
    vertical-align: middle;
    margin: 0 auto;
    width: 85%;
-   padding-bottom: 30px;s
+   padding-bottom: 30px;
    text-align: center;
 }
 
@@ -94,8 +94,10 @@ header .social li {
    margin: 0 15px;
    padding: 0;
 }
-header .social li a { color: #fff; }
-header .social li a:hover { color: #11ABB0; }
+header .social li a { color: #525252; }
+header .social li a:hover {
+   color: #525252;
+}
 
 /* scrolldown link */
 header .scrolldown a {
@@ -140,7 +142,7 @@ header .scrolldown a:hover { color: #11ABB0; }
    left: 0;
    top: 0;
 }
-.opaque { background-color: #333; }
+.opaque { background-color: #fff; }
 
 /* hide toggle button */
 #nav-wrap > a.mobile-btn { display: none; }
@@ -169,7 +171,7 @@ ul#nav li a {
    line-height: 32px;
 	text-decoration: none;
    text-align: left;
-   color: #fff;
+   color: #000;
 
 	-webkit-transition: color .2s ease-in-out;
 	-moz-transition: color .2s ease-in-out;
@@ -179,7 +181,7 @@ ul#nav li a {
 }
 
 ul#nav li a:active { background-color: transparent !important; }
-ul#nav li.current a { color: #F06000; }
+/* ul#nav li.current a { color: #F06000; } */
 
 
 /* ------------------------------------------------------------------ */
@@ -788,7 +790,7 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 #contact {
-   background: #191919;
+   background: #fff;
    padding-top: 96px;
    padding-bottom: 102px;
    color: #636363;
@@ -814,12 +816,12 @@ call-to-action .button {
    line-height: 72px;
    text-align: left;
    float: left;
-   color: #ebeeee;
+   color: #030;
 }
 
 #contact h4 {
    font: 16px/24px 'opensans-bold', sans-serif;
-   color: #EBEEEE;
+   color: #030;
    margin-bottom: 6px;
 }
 #contact p.lead {
@@ -925,6 +927,7 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 footer {
+   background-color: #fff;
    padding-top: 48px;
    margin-bottom: 48px;
    color: #303030;
@@ -934,7 +937,7 @@ footer {
 }
 
 footer a, footer a:visited { color: #525252; }
-footer a:hover, footer a:focus { color: #fff; }
+footer a:hover, footer a:focus { color: #934839; }
 
 /* copyright */
 footer .copyright {
@@ -978,6 +981,7 @@ footer .social-links li:first-child { margin-left: 0; }
 
 /* Go To Top Button */
 #go-top {
+   background-color: #fff;
 	position: absolute;
 	top: -24px;
    left: 50%;
@@ -989,7 +993,7 @@ footer .social-links li:first-child { margin-left: 0; }
 	display: block;
 	width: 60px;
 	height: 60px;
-	background-color: #525252;
+	background-color: #fff;
 
 	-webkit-transition: all 0.2s ease-in-out;
    -moz-transition: all 0.2s ease-in-out;
@@ -997,7 +1001,7 @@ footer .social-links li:first-child { margin-left: 0; }
    -ms-transition: all 0.2s ease-in-out;
    transition: all 0.2s ease-in-out;
 
-   color: #fff;
+   color: #525252;
    font-size: 21px;
    line-height: 60px;
  	border-radius: 100%;
